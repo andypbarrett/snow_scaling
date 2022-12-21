@@ -10,4 +10,4 @@ presentation.
 The original workflow was modified by Andy Barrett to use standard variogram functions from [`scikit-gstat`](https://mmaelicke.github.io/scikit-gstat/index.html), a SciPy-flavoured geostatistical toolbox written in python.  This workflow is 
 documented in [notebooks/variogram_workflow.ipynb](https://github.com/andypbarrett/snow_scaling/blob/main/notebooks/variogram_workflow.ipynb).
 
-Data are available from NSIDC **add link to dataset**.
+Data are available from the [National Snow and Ice Data Center](https://nsidc.org/data/aso).
