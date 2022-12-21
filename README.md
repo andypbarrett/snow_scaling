@@ -7,7 +7,7 @@ The repository holds original code deveopled by Ian Bolliger, UC Berkley.  Workf
 are documented in [notebooks/variograms_by_region_original.ipynb](https://github.com/andypbarrett/snow_scaling/blob/main/notebooks/variograms_by_region_original.ipynb).  Results of this analysis are in this 
 presentation.
 
-The original workflow was modified by Andy Barrett to use standard variogram functions from `skimage-learn`.  This workflow is 
-documented in [**LINK TO MODIFIED WORKBOOK**]().
+The original workflow was modified by Andy Barrett to use standard variogram functions from [`scikit-gstat`](https://mmaelicke.github.io/scikit-gstat/index.html), a SciPy-flavoured geostatistical toolbox written in python.  This workflow is 
+documented in [notebooks/variogram_workflow.ipynb](https://github.com/andypbarrett/snow_scaling/blob/main/notebooks/variogram_workflow.ipynb).
 
 Data are available from NSIDC **add link to dataset**.
