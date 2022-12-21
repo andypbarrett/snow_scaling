@@ -3,7 +3,7 @@ The code in the repository documents and demonstrates a workflow for generating 
 [Airborne Snow Observatory](https://www.airbornesnowobservatories.com/) (ASO) lidar data collected 
 over the headwaters of the Tuolomne river basin, CA.
 
-The repository holds original code deveopled by **add Ian's full name here**.  Workflows developed by **Ian**
+The repository holds original code deveopled by Ian Bolliger, UC Berkley.  Workflows developed by Ian
 are documented in [**LINK TO NOTEBOOK**]().  [Results](link_to_pdf_of_powerpoint) of this analysis were 
 presented at **name_of_conference**.
 
